@@ -1,0 +1,6 @@
+model/*
+weights/*
+*.mp4
+lib*
+results/*
+MOT17Labels/*
